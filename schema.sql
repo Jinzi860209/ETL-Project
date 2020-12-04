@@ -1,5 +1,5 @@
 -- Create tables for raw data to be loaded into
-CREATE TABLE happiness (
+CREATE TABLE world_happiness (
 country_name TEXT,
 happiness_rank INT PRIMARY KEY,
 happiness_score INT
