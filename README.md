@@ -16,7 +16,7 @@ Population/Fertility rate/Life expectancy: World Bank Data (1960 to 2016) | Kagg
                          
 *GDP: Source: GDP per capita and life satisfaction......(2017) | Kaggle
  
-## T**ransform: what data cleaning or transformation was required.
+## Transform: what data cleaning or transformation was required.
 Data Transformation:
 Use only relevant years that overlap for each data-set.
 Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
