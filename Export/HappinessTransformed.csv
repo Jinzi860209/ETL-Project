@@ -1,159 +1,159 @@
-country,happiness_rank,happiness_score
-Switzerland,1,7.587000000000001
-Iceland,2,7.561
-Denmark,3,7.527
-Norway,4,7.522
-Canada,5,7.4270000000000005
-Finland,6,7.406000000000001
-Netherlands,7,7.377999999999999
-Sweden,8,7.364
-New Zealand,9,7.2860000000000005
-Australia,10,7.284
-Israel,11,7.278
-Costa Rica,12,7.226
-Austria,13,7.2
-Mexico,14,7.187
-United States,15,7.119
-Brazil,16,6.983
-Luxembourg,17,6.946000000000001
-Ireland,18,6.94
-Belgium,19,6.937
-United Arab Emirates,20,6.901
-United Kingdom,21,6.867000000000001
-Oman,22,6.853
-Venezuela,23,6.81
-Singapore,24,6.797999999999999
-Panama,25,6.7860000000000005
-Germany,26,6.75
-Chile,27,6.67
-Qatar,28,6.611000000000001
-France,29,6.575
-Argentina,30,6.574
-Czech Republic,31,6.505
-Uruguay,32,6.485
-Colombia,33,6.477
-Thailand,34,6.455
-Saudi Arabia,35,6.4110000000000005
-Spain,36,6.329
-Malta,37,6.3020000000000005
-Taiwan,38,6.297999999999999
-Kuwait,39,6.295
-Suriname,40,6.269
-Trinidad and Tobago,41,6.167999999999999
-El Salvador,42,6.13
-Guatemala,43,6.122999999999999
-Uzbekistan,44,6.002999999999999
-Slovakia,45,5.995
-Japan,46,5.987
-South Korea,47,5.984
-Ecuador,48,5.975
-Bahrain,49,5.96
-Italy,50,5.9479999999999995
-Bolivia,51,5.89
-Moldova,52,5.888999999999999
-Paraguay,53,5.877999999999999
-Kazakhstan,54,5.855
-Slovenia,55,5.848
-Lithuania,56,5.832999999999999
-Nicaragua,57,5.827999999999999
-Peru,58,5.824
-Belarus,59,5.813
-Poland,60,5.791
-Malaysia,61,5.77
-Croatia,62,5.7589999999999995
-Libya,63,5.754
-Russia,64,5.716
-Jamaica,65,5.709
-North Cyprus,66,5.695
-Cyprus,67,5.689
-Algeria,68,5.605
-Kosovo,69,5.5889999999999995
-Turkmenistan,70,5.547999999999999
-Mauritius,71,5.477
-Hong Kong,72,5.474
-Estonia,73,5.428999999999999
-Indonesia,74,5.399
-Vietnam,75,5.36
-Turkey,76,5.332000000000001
-Kyrgyzstan,77,5.2860000000000005
-Nigeria,78,5.268
-Bhutan,79,5.252999999999999
-Azerbaijan,80,5.212000000000001
-Pakistan,81,5.194
-Jordan,82,5.192
-Montenegro,82,5.192
-China,84,5.14
-Zambia,85,5.129
-Romania,86,5.124
-Serbia,87,5.122999999999999
-Portugal,88,5.102
-Latvia,89,5.098
-Philippines,90,5.073
-Somaliland region,91,5.0569999999999995
-Morocco,92,5.013
-Macedonia,93,5.007
-Mozambique,94,4.971
-Albania,95,4.959
-Bosnia and Herzegovina,96,4.949
-Lesotho,97,4.898
-Dominican Republic,98,4.885
-Laos,99,4.876
-Mongolia,100,4.874
-Swaziland,101,4.867
-Greece,102,4.857
-Lebanon,103,4.8389999999999995
-Hungary,104,4.8
-Honduras,105,4.788
-Tajikistan,106,4.7860000000000005
-Tunisia,107,4.739
-Palestinian Territories,108,4.715
-Bangladesh,109,4.694
-Iran,110,4.686
-Ukraine,111,4.681
-Iraq,112,4.677
-South Africa,113,4.6419999999999995
-Ghana,114,4.633
-Zimbabwe,115,4.61
-Liberia,116,4.571000000000001
-India,117,4.565
-Sudan,118,4.55
-Haiti,119,4.518
-Congo (Kinshasa),120,4.5169999999999995
-Nepal,121,4.513999999999999
-Ethiopia,122,4.512
-Sierra Leone,123,4.507
-Mauritania,124,4.436
-Kenya,125,4.419
-Djibouti,126,4.369
-Armenia,127,4.35
-Botswana,128,4.332
-Myanmar,129,4.3069999999999995
-Georgia,130,4.297
-Malawi,131,4.292
-Sri Lanka,132,4.271
-Cameroon,133,4.252
-Bulgaria,134,4.218
-Egypt,135,4.194
-Yemen,136,4.077
-Angola,137,4.033
-Mali,138,3.995
-Congo (Brazzaville),139,3.989
-Comoros,140,3.9560000000000004
-Uganda,141,3.931
-Senegal,142,3.904
-Gabon,143,3.8960000000000004
-Niger,144,3.845
-Cambodia,145,3.819
-Tanzania,146,3.781
-Madagascar,147,3.681
-Central African Republic,148,3.678
-Chad,149,3.667
-Guinea,150,3.656
-Ivory Coast,151,3.655
-Burkina Faso,152,3.5869999999999997
-Afghanistan,153,3.575
-Rwanda,154,3.465
-Benin,155,3.34
-Syria,156,3.0060000000000002
-Burundi,157,2.905
-Togo,158,2.839
+country,happiness_rank
+Switzerland,1
+Iceland,2
+Denmark,3
+Norway,4
+Canada,5
+Finland,6
+Netherlands,7
+Sweden,8
+New Zealand,9
+Australia,10
+Israel,11
+Costa Rica,12
+Austria,13
+Mexico,14
+United States,15
+Brazil,16
+Luxembourg,17
+Ireland,18
+Belgium,19
+United Arab Emirates,20
+United Kingdom,21
+Oman,22
+Venezuela,23
+Singapore,24
+Panama,25
+Germany,26
+Chile,27
+Qatar,28
+France,29
+Argentina,30
+Czech Republic,31
+Uruguay,32
+Colombia,33
+Thailand,34
+Saudi Arabia,35
+Spain,36
+Malta,37
+Taiwan,38
+Kuwait,39
+Suriname,40
+Trinidad and Tobago,41
+El Salvador,42
+Guatemala,43
+Uzbekistan,44
+Slovakia,45
+Japan,46
+South Korea,47
+Ecuador,48
+Bahrain,49
+Italy,50
+Bolivia,51
+Moldova,52
+Paraguay,53
+Kazakhstan,54
+Slovenia,55
+Lithuania,56
+Nicaragua,57
+Peru,58
+Belarus,59
+Poland,60
+Malaysia,61
+Croatia,62
+Libya,63
+Russia,64
+Jamaica,65
+North Cyprus,66
+Cyprus,67
+Algeria,68
+Kosovo,69
+Turkmenistan,70
+Mauritius,71
+Hong Kong,72
+Estonia,73
+Indonesia,74
+Vietnam,75
+Turkey,76
+Kyrgyzstan,77
+Nigeria,78
+Bhutan,79
+Azerbaijan,80
+Pakistan,81
+Jordan,82
+Montenegro,82
+China,84
+Zambia,85
+Romania,86
+Serbia,87
+Portugal,88
+Latvia,89
+Philippines,90
+Somaliland region,91
+Morocco,92
+Macedonia,93
+Mozambique,94
+Albania,95
+Bosnia and Herzegovina,96
+Lesotho,97
+Dominican Republic,98
+Laos,99
+Mongolia,100
+Swaziland,101
+Greece,102
+Lebanon,103
+Hungary,104
+Honduras,105
+Tajikistan,106
+Tunisia,107
+Palestinian Territories,108
+Bangladesh,109
+Iran,110
+Ukraine,111
+Iraq,112
+South Africa,113
+Ghana,114
+Zimbabwe,115
+Liberia,116
+India,117
+Sudan,118
+Haiti,119
+Congo (Kinshasa),120
+Nepal,121
+Ethiopia,122
+Sierra Leone,123
+Mauritania,124
+Kenya,125
+Djibouti,126
+Armenia,127
+Botswana,128
+Myanmar,129
+Georgia,130
+Malawi,131
+Sri Lanka,132
+Cameroon,133
+Bulgaria,134
+Egypt,135
+Yemen,136
+Angola,137
+Mali,138
+Congo (Brazzaville),139
+Comoros,140
+Uganda,141
+Senegal,142
+Gabon,143
+Niger,144
+Cambodia,145
+Tanzania,146
+Madagascar,147
+Central African Republic,148
+Chad,149
+Guinea,150
+Ivory Coast,151
+Burkina Faso,152
+Afghanistan,153
+Rwanda,154
+Benin,155
+Syria,156
+Burundi,157
+Togo,158
