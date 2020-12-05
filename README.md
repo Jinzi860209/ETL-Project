@@ -20,16 +20,13 @@ Data Transformation:
 
 * The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
 
-*Use only relevant years that overlap for each data-set.
+* Cleaning World_Happiness Dataset:
 
-*Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
-
-    *Replace the metric for Economy with each country's actual GDP.
-    *Replace the metric for Family with each country’s average family size.
-    *Replace the metric for Health with the life expectancy for each country
-        *Add columns to include fertility rates and population.
-
-*The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
+* Cleaning GDP Dataset:
+    **Removed unnecessary columns, such as units in USD, from the gdp_per_capita.csv. 
+    **The two remaining columns were country and GDP. Brought in the World Happiness Data csv and used the country and happiness rank columns only. 
+    **We combined the two resulting data frames into one based on the country and removed any countries that were not included either in both datasets or did not have their GDP listed. 
+    **Finally, we sorted the countries by GDP and added another ranked column so that the countries original happiness rank and GDP rank could be more easily compared.
 
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
