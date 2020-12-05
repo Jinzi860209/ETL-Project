@@ -43,6 +43,10 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
 
 ### Challenges:
 
+* Total number of countries did not match from the core world happiness dataset and other datasets
+
+* Countries with symbols in their name
+
 
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
