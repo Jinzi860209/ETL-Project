@@ -51,6 +51,8 @@ Before cleaning the datasets we used QBD to visualize our goals for each dataset
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
 
+* Four tables were created on Postgres before we performed the load from jupyter notebook: world_happiness, pop_fertility_life_exp, gdp, and country code
+
 * The type of final production database to load the data into: relational
 
 We chose to use a relational database because our data points were all referring to a specific country.  We needed to show that each column was referring to the countries gdp, life expectancy, fertility, and population.
@@ -58,6 +60,8 @@ We chose to use a relational database because our data points were all referring
 * The final tables or collections that will be used in the production database
 
 We were able to successfully match our initial DBD goal (see DBD image above)
+
+* Completed a sample query in jupyter notebook to show a successfull load
 
 ## Challenges:
 
