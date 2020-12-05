@@ -32,6 +32,9 @@ Data Transformation:
 
 *The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
 
+Cleaning GDP dataset
+  - Removed unnecessary columnns, such as units in USD, from the gdp_per_capita.csv.  The two remaining columns were country and gdp.  Brought in the World Happiness Data csv and used the country and happiness rank columns only.  We ombined the two resulting dataframes into one based on the country and removed any countries that were not included in both datasets or did not have their gdp listed.  Finally we sorted the countries by gdp and added another ranked column so that the countries original happiness rank and gdp rnak could be more easily compared.
+
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
 
