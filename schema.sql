@@ -1,6 +1,6 @@
--- Create tables for raw data to be loaded into
+-- ETL Project Group #2
 CREATE TABLE world_happiness (
-country_name TEXT,
+country TEXT,
 happiness_rank INT PRIMARY KEY,
 happiness_score INT
 );
@@ -10,17 +10,18 @@ country_code INT PRIMARY KEY,
 country_name TEXT,
 );
 
-CREATE TABLE country_info (
+CREATE TABLE fertility_rate_life_expectancy (
 country_name TEXT PRIMARY KEY,
-population INT,
-fertility INT,
-life_expectacy INT,
-GDP INT
+country_code INT,
+fertility_rate_2015 INT,
+life_expectacy_2015 INT,
+countr_population_2015 INT,
 );
 
+CREATE TABLE gdp_happiness (
+country TEXT,
+happiness_rank INT,
+gdp money PRIMARY KEY, 
+gdp_rank INT
+);
 
--- Joins tables
-SELECT customer_name.id, customer_name.first_name, customer_name.last_name, customer_location.address, customer_location.us_state
-FROM customer_name
-JOIN customer_location
-ON customer_name.id = customer_location.id;
