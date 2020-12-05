@@ -61,7 +61,9 @@ We were able to successfully match our initial DBD goal (see DBD image above)
 
 ## Challenges:
 
-* Total number of countries did not match from the core world happiness dataset and other datasets
+* Total number of countries from the world happiness dataset was less than and other datasets
+
+* We wanted to use more years but only went with 2015 due to other datasets
 
 * Countries with symbols in their name
 
