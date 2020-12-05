@@ -7,15 +7,15 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
 ## Extract: original data sources and formatting
 
-### Datasets and Sources (All in CSV): 
+### Datasets and Sources (All in CSV format from Kaggle): 
 
-*World Happiness Report: World Happiness Report
+*World Happiness Report: World Happiness Report 
 Source: [Gallup World Poll (Pull from: 2015 & 2016)](https://www.kaggle.com/unsdsn/world-happiness?select=2015.csv) 
 
 *Population, Fertility Rate, and Life Expectancy: 
 Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-to-2016) 
                          
-*GDP: Source: [GDP per capita and life satisfaction](https://www.kaggle.com/pamhohhgkgm/gdp-per-capita-and-life-satisfaction2017)
+*GDP: Source: [GDP per capita: International Monetary Fund](https://www.kaggle.com/pamhohhgkgm/gdp-per-capita-and-life-satisfaction2017)
  
 ## Quick Database Diagrams:
 Before cleaning the datasets we used QBD to visualize our goals for each dataset:
