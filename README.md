@@ -31,6 +31,9 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
 ### Cleaning Population, fertility, and life expectancy datasets:
 
 
+### Challenges:
+
+
 ### Cleaning GDP Dataset:
 * Removed unnecessary columns, such as units in USD, from the gdp_per_capita.csv. 
 
