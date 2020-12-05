@@ -3,7 +3,7 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
 # World Happiness ETL: Project Report:
 
-*Gaol: Perform ETL World Happiness dataset from Gallup World Poll, pull in additional datasets to include accurate population, fertility rate, life expectancy and GDP from the World Bank.
+*Goal: Perform ETL World Happiness dataset from Gallup World Poll, pull in additional datasets to include accurate population, fertility rate, life expectancy and GDP from the World Bank.
 
 ## Extract: original data sources and formatting
 
