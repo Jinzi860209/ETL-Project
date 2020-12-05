@@ -18,13 +18,13 @@ Population/Fertility rate/Life expectancy: World Bank Data (1960 to 2016) | Kagg
  
 ## Transform: what data cleaning or transformation was required.
 Data Transformation:
-Use only relevant years that overlap for each data-set.
-Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
-Replace the metric for Economy with each country's actual GDP.
-Replace the metric for Family with each country’s average family size.
-Replace the metric for Health with the life expectancy for each country
-Add columns to include fertility rates and population.
-The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
+*Use only relevant years that overlap for each data-set.
+*Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
+    *Replace the metric for Economy with each country's actual GDP.
+    *Replace the metric for Family with each country’s average family size.
+    *Replace the metric for Health with the life expectancy for each country
+        *Add columns to include fertility rates and population.
+*The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
 
 ## Data Cleanup & Analysis
 
