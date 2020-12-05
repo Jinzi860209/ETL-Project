@@ -8,7 +8,7 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 Datasets and Sources: 
 
 *World Happiness Report: World Happiness Report
-Source: Gallup World Poll (Pull from: 2015 & 2016)
+Source: [Gallup World Poll (Pull from: 2015 & 2016)](https://www.kaggle.com/unsdsn/world-happiness?select=2015.csv) 
 
 *Life Expectancy: Life Expectancy (WHO)
 Source: Life expectancy per country from 1543 to 2019 | Kaggle
