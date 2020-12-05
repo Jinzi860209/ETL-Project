@@ -17,6 +17,9 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
                          
 *GDP: Source: [GDP per capita and life satisfaction](https://www.kaggle.com/pamhohhgkgm/gdp-per-capita-and-life-satisfaction2017)
  
+## Quick Database Diagrams:
+![Visual of our tables](Resources/QBD_schema.png) 
+
 ## Transform: data cleaning or transformation
 
 ### Cleaning World_Happiness Dataset:
