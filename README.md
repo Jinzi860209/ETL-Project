@@ -5,7 +5,7 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
 ## Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
-Datasets: 
+Datasets and Sources: 
 
 *World Happiness Report: World Happiness Report
 Source: Gallup World Poll (Pull from: 2015 & 2016)
@@ -18,6 +18,9 @@ Population/Fertility rate/Life expectancy: World Bank Data (1960 to 2016) | Kagg
  
 ## Transform: what data cleaning or transformation was required.
 Data Transformation:
+
+* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+
 *Use only relevant years that overlap for each data-set.
 
 *Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
@@ -29,17 +32,9 @@ Data Transformation:
 
 *The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
 
-## Data Cleanup & Analysis
-
-Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
-
-* The sources of data that you will extract from.
-
-* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+## Load: the final database, tables/collections, and why this was chosen.
+Type of Final Production Database: SQL
 
 * The type of final production database to load the data into (relational or non-relational).
 
 * The final tables or collections that will be used in the production database.
-
-## Load: the final database, tables/collections, and why this was chosen.
-Type of Final Production Database: SQL
