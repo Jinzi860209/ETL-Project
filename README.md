@@ -33,8 +33,11 @@ Before cleaning the datasets we used QBD to visualize our goals for each dataset
 * Renamed DF columns to all lower-case and removed spaces.
 
 ### Cleaning Population, fertility, and life expectancy datasets:
+* The data set contains year from 1960 - 2016, only kept country name, country code and 2015 columns.
 
+* Took out indicator name and indicator code columns of each data set
 
+* combined country name, country code, population, fertility and life expentancy in one data frame.
 
 ### Cleaning GDP Dataset:
 * Removed unnecessary columns, such as units in USD, from the gdp_per_capita.csv. 
