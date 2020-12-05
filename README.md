@@ -36,4 +36,6 @@ Type of Final Production Database: SQL
 
 * The type of final production database to load the data into (relational or non-relational).
 
+We chose to use a relational database because our data points were all referring to a specific country.  We needed to show that each column was referring to the countries gdp, life expectancy, fertility, and population.
+
 * The final tables or collections that will be used in the production database.
