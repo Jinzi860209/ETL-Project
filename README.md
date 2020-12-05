@@ -3,7 +3,7 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
 # World Happiness ETL: Project Report:
 
-## E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+## Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
 Datasets: 
 
@@ -38,5 +38,5 @@ Once you have identified your datasets, perform ETL on the data. Make sure to pl
 
 * The final tables or collections that will be used in the production database.
 
-## L**oad: the final database, tables/collections, and why this was chosen.
+## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
