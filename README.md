@@ -31,8 +31,6 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
 ### Cleaning Population, fertility, and life expectancy datasets:
 
 
-### Challenges:
-
 
 ### Cleaning GDP Dataset:
 * Removed unnecessary columns, such as units in USD, from the gdp_per_capita.csv. 
@@ -42,6 +40,9 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
 * We combined the two resulting data frames into one based on the country and removed any countries that were not included either in both datasets or did not have their GDP listed. 
 
 * Finally, we sorted the countries by GDP and added another ranked column so that the countries original happiness rank and GDP rank could be more easily compared.
+
+### Challenges:
+
 
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
