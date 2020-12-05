@@ -1,11 +1,9 @@
-# ETL-Project
-Team 2
+# ETL-Project: Team 2
+Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
-World Happiness ETL
+# World Happiness ETL: Project Report:
 
-## Project Report:
-
-# E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+## E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
 Datasets: 
 
@@ -18,7 +16,7 @@ Population/Fertility rate/Life expectancy: World Bank Data (1960 to 2016) | Kagg
                          
 *GDP: Source: GDP per capita and life satisfaction......(2017) | Kaggle
  
-# T**ransform: what data cleaning or transformation was required.
+## T**ransform: what data cleaning or transformation was required.
 Data Transformation:
 Use only relevant years that overlap for each data-set.
 Start with the Happiness Report data-set,use the calculated happiness score and replace the metrics that were used to calculate the score with the actual values.  
@@ -28,7 +26,7 @@ Replace the metric for Health with the life expectancy for each country
 Add columns to include fertility rates and population.
 The Happiness Report is already sorted by happiness, change the sort by other columns to see how the happiness rating is affected by each.
 
-# Data Cleanup & Analysis
+## Data Cleanup & Analysis
 
 Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
 
@@ -40,5 +38,5 @@ Once you have identified your datasets, perform ETL on the data. Make sure to pl
 
 * The final tables or collections that will be used in the production database.
 
-# L**oad: the final database, tables/collections, and why this was chosen.
+## L**oad: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
