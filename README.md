@@ -3,7 +3,7 @@ Roamn Koshel, Zi Jin, Eric Farrell, and Lisa Rios
 
 # World Happiness ETL: Project Report:
 
-*Perform ETL World Happiness dataset from Gallup World Poll, pull in additional datasets to include accurate population, fertility rate, life expectancy and GDP from the World Bank.
+*Gaol: Perform ETL World Happiness dataset from Gallup World Poll, pull in additional datasets to include accurate population, fertility rate, life expectancy and GDP from the World Bank.
 
 ## Extract: original data sources and formatting
 
@@ -54,8 +54,10 @@ Source: [World Bank Data](https://www.kaggle.com/gemartin/world-bank-data-1960-t
 ## Load: the final database, tables/collections, and why this was chosen.
 Type of Final Production Database: SQL
 
-* The type of final production database to load the data into (relational or non-relational).
+* The type of final production database to load the data into: relational
 
 We chose to use a relational database because our data points were all referring to a specific country.  We needed to show that each column was referring to the countries gdp, life expectancy, fertility, and population.
 
-* The final tables or collections that will be used in the production database.
+* The final tables or collections that will be used in the production database
+
+We were able to successfully match our initial DBD goal (see DBD image above)
